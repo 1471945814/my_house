@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>屏幕截图 2022-02-28 100638.png</file>
+  </qresource>
+  <qresource prefix="qss">
+    <file>typle.qss</file>
+  </qresource>
+</RCC>

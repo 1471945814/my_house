@@ -1,0 +1,4 @@
+QPushButton:pressed{
+ color:red;
+
+}
